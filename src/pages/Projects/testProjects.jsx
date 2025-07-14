@@ -4,6 +4,16 @@ import { useRef, useState } from "react";
 
 const projects = [
   {
+    title: "Weather App",
+    description:
+      "A weather application built with React, Tailwind CSS, and OpenWeatherMap API to provide real-time weather updates.",
+    src: "",
+    link: "https://i.postimg.cc/GpnDhR6T/Weather-dashboard.png",
+    color: "#5196fd",
+    githubLink: "https://github.com/Abdul-M777/weather-app",
+    liveLink: "https://weather-app-phi-steel-39.vercel.app/",
+  },
+  {
     title: "Issue Tracker",
     description:
       "An issue tracker website built with Next.js, TypeScript, TailwindCSS and MySQL.",
