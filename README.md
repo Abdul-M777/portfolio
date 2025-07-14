@@ -24,7 +24,7 @@ This is my personal portfolio website built using **React.js** and **Tailwind CS
 Clone the repository and install the dependencies:
 
 ```bash
-git clone https://github.com/yourusername/your-portfolio.git
+git clone https://github.com/Abdul-M777/your-portfolio.git
 cd your-portfolio
 npm install
 npm start
