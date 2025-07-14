@@ -30,4 +30,4 @@ jobs:
           username: ${{ secrets.FTP_USERNAME }}
           password: ${{ secrets.FTP_PASSWORD }}
           server-dir: /public_html/ # Adjust if your web root is different
-          local-dir: dist # Deploy only the built output
+          local-dir: dist/ # Deploy only the built output
