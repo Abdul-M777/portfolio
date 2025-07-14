@@ -98,7 +98,7 @@ export default function Contact() {
             <div className="space-y-8">
               <div>
                 <h2 className="text-4xl font-bold mb-4 bg-gradient-to-r from-blue-400 to-purple-500 bg-clip-text text-transparent">
-                  Get in Touch
+                  Get in Touch with me
                 </h2>
                 <p className="text-gray-300 text-lg">
                   Have a question or want to work together? Drop us a message!
